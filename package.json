@@ -1,0 +1,7 @@
+{
+  "name": "boom-crash-signal",
+  "version": "2.0.0",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
